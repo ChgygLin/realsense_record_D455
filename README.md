@@ -15,3 +15,9 @@
 1. 各数据均带有单位为ns的时间戳
 2. 本机实测彩色相机实拍图像和最终保存图像的时间戳大概相差150ms
 3. 加速度计和陀螺仪的采样频率不一致，加速度计仅支持63/250HZ？陀螺仪支持200HZ？后续时间戳数据需要插值处理。
+
+
+
+#### PS:
+
+Intel RealSense SDK在线安装方法，[jeston在线安装方法](https://github.com/IntelRealSense/librealsense/blob/master/doc/installation_jetson.md)， [离线安装包](https://download.csdn.net/download/stacowt/86904723)
